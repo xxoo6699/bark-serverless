@@ -1,4 +1,4 @@
-name = "bark-serverless-worker"
+name = "bark-serverless"
 main = "worker/src/index.ts"
 compatibility_date = "2026-06-12"
 
